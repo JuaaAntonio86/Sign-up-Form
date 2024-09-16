@@ -37,6 +37,7 @@ body {
 }
 
 .intro {
+	display: flex;
     flex: 1;
     position: relative; /* Ensures the image inside is positioned relative to this div */
     overflow: hidden;
